@@ -7,7 +7,7 @@
 ## 3. CS (컴퓨터 과학)
 
 ## 4. Developmental practice and culture (개발 방법론, 문화) 
-#### 1. [깨끗하고 좋은 HTML 코드를 작성하기 위한 팁](./Developmental%20practice%20and%20culture/깨끗하고%20읽기%20좋은%20HTML%20코드를%20작성하기%20위한%20팁.md)
+#### 1. [깔끔한 HTML 코드를 작성하기 위한 8가지 방법들](./Developmental%20practice%20and%20culture/깔끔한%20HMTL%20코드를%20작성하기%20위한%208가지%20방법들.md)
 
 
 ## 5. etc (기타)
